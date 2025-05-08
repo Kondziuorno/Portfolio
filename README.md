@@ -1,1 +1,1 @@
-[![Obraz](./baner.png)](./Portfolio.pdf)
+[![Obraz](./banner.png)](./Portfolio.pdf)
