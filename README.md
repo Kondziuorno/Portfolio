@@ -1,2 +1,1 @@
-## [Kliknij aby zobaczyć portfolio!](./Portfolio.pdf)
-![Obraz](./portfolio.jpg)
+[![Obraz](./banner.png)](./Portfolio.pdf)
