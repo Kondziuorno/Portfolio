@@ -1,2 +1,2 @@
-## Hi there :wave:
-[Link to pdf](./Portfolio.pdf)
+## Witam serdecznie! :wave:
+[Kliklij aby zobaczyć portfolio](./Portfolio.pdf)
