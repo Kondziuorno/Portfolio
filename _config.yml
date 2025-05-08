@@ -2,3 +2,4 @@ title: Moje porfolio - Konrad Kasprzyk
 description: Poniżej załączam moje portfolio.
 show_downloads: true
 theme: jekyll-theme-architect
+site.url: http://kondziuorno.github.io
