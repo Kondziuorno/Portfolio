@@ -1,2 +1,1 @@
-## Poniżej link 👋
-[Kliklij aby zobaczyć portfolio](./Portfolio.pdf)
+## [Kliknij aby zobaczyć portfolio!](./Portfolio.pdf)
